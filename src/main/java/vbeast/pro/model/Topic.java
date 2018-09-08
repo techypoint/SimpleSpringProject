@@ -1,5 +1,6 @@
 package vbeast.pro.model;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -13,6 +14,7 @@ public class Topic {
     @Id
     private int id;
     private String name;
+    @Column(name = "descrption")
     private String desc;
 
     public int getId() {

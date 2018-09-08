@@ -1,6 +1,7 @@
 package vbeast.pro.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
@@ -24,7 +25,7 @@ public class TopicController {
     }
 
     @RequestMapping(value = "/topics",method = RequestMethod.POST)
-    public void saveTopics(Topic topic){
+    public void saveTopics(@RequestBody Topic topic){
          topicService.save(topic);
     }
 }
