@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e98d03d-8067-4e88-a808-faf8868d80b0" name="Default" comment="change for mysql and jpa">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_14_1_0.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSpringPro.iml" afterPath="$PROJECT_DIR$/SimpleSpringPro.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vbeast/pro/model/Topic.java" afterPath="$PROJECT_DIR$/src/main/java/vbeast/pro/model/Topic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vbeast/pro/controller/TopicController.java" afterPath="$PROJECT_DIR$/src/main/java/vbeast/pro/controller/TopicController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vbeast/pro/repository/TopicRepository.java" afterPath="$PROJECT_DIR$/src/main/java/vbeast/pro/repository/TopicRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="5e98d03d-8067-4e88-a808-faf8868d80b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SimpleSpringPro.iws" />
@@ -529,12 +518,19 @@
       <workItem from="1536338643827" duration="2367000" />
       <workItem from="1536341056973" duration="1812000" />
       <workItem from="1536396450921" duration="1327000" />
-      <workItem from="1536398380203" duration="7802000" />
+      <workItem from="1536398380203" duration="7828000" />
     </task>
+    <task id="LOCAL-00001" summary="change for mysql and jpa">
+      <created>1536409797954</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536409797955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13308000" />
+    <option name="totallyTimeSpent" value="13334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
